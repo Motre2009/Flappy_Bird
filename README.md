@@ -1,5 +1,8 @@
 # Flappy Bird (Python)
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/-Pygame-000000?style=flat&logo=pygame&logoColor=white)
+
 Навчальний проєкт гри Flappy Bird, реалізований на Python.
 
 ## 🎮 Опис
